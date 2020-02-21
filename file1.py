@@ -112,3 +112,6 @@ while not gameOver:
     pygame.draw.rect(screen, RED, (playerPos[0], playerPos[1], playerSize, playerSize))
     clock.tick(30)
     pygame.display.update()  # Renders objects on screen
+# Hola, new features will be added soon!
+def newFuntions():
+    pass
